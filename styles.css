@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+div#container{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    
+    align-items: center;
+    text-align: center;
+}
+#background{
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    
+   border-radius: 30px;
+   
+}
+img{
+    border-radius: 20px;
+    height: 400px;
+}
+p{
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+   
+}
+#p-1{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+#p-2{
+    font-size: 20px;
+    color:hsl(220, 15%, 55%) ;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
